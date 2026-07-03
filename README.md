@@ -97,7 +97,7 @@ Airflow pipelines, SHAP-based explainability & dashboards that make insights sel
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sekarvms2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekarvms2000&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=sekarvms2000&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sekarvms2000&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <!-- 📈 Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sekarvms2000&theme=tokyo-night&hide_border=true&area=true" width="100%" />
