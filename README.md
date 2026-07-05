@@ -30,8 +30,8 @@ class DataAnalyst:
 ```
 
 - 🔭 I build **predictive models** and **automation frameworks** that turn raw data into business decisions
-- 📊 Experienced in **large-scale customer analytics** — segmentation, retention, and campaign targeting
-- 🤖 Big believer in **Explainable AI** — models should be able to explain *why*, not just *what*
+- 📊 Experienced in **large-scale customer analytics** - segmentation, retention, and campaign targeting
+- 🤖 Big believer in **Explainable AI** - models should be able to explain *why*, not just *what*
 - ⚙️ I love replacing multi-day manual workflows with **automated, reproducible pipelines**
 - 🌱 Always exploring new ways to blend **ML, automation, and storytelling with data**
 
@@ -94,9 +94,6 @@ Airflow pipelines, SHAP-based explainability & dashboards that make insights sel
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sekarvms2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekarvms2000&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=sekarvms2000&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <!-- 📈 Contribution Activity Graph -->
@@ -118,7 +115,7 @@ Airflow pipelines, SHAP-based explainability & dashboards that make insights sel
 
 ## 🎓 Education
 
-**B.E. Mechanical Engineering** — PSG Institute of Technology and Applied Research, Coimbatore
+**B.E. Mechanical Engineering** - PSG Institute of Technology and Applied Research, Coimbatore
 
 ---
 
