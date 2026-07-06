@@ -3,9 +3,6 @@
 <!-- ✨ Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sekar+V+%F0%9F%91%8B;Data+Analyst+%7C+Decision+Scientist;Turning+Data+into+Decisions+%F0%9F%93%8A;SQL+%E2%80%A2+Python+%E2%80%A2+BigQuery+%E2%80%A2+Tableau" alt="Typing SVG" />
 
-<!-- 👀 Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=sekarvms2000&style=for-the-badge&color=blueviolet" alt="Profile views" />
-
 </div>
 
 ---
