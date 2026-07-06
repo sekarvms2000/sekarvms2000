@@ -103,22 +103,6 @@ Airflow pipelines, SHAP-based explainability & dashboards that make insights sel
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sekarvms2000/sekarvms2000/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎓 Education
-
-**B.E. Mechanical Engineering** - PSG Institute of Technology and Applied Research, Coimbatore
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
